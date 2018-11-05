@@ -1,6 +1,6 @@
 # NYC PyLadies Study Group
 
-Sign up on Meetup [HERE](https://www.meetup.com/NYC-PyLadies/) 
+Sign up for the **November 12th** event on Meetup [HERE](https://www.meetup.com/NYC-PyLadies/events/256036522/) 
 
 ### Description.
 
@@ -32,6 +32,7 @@ Share your accomplishments with the group. Were they realistic?
 
 #### PYTHON BASICS
 * [JupyterLab is ready for users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) **Level:** Beginner
+* [Intro to web scraping with Python](https://github.com/antoniablair/pyladies_scraping_workshop) **Level:** Beginner; **Author:** Antonia Blair (NYC PyLadies Organizer)
 
 #### WEB DEVELOPMENT
 * [Creating and Hosting a Personal Site on Github](http://jmcglone.com/guides/github-pages/) **Level:** Beginner 
