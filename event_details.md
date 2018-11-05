@@ -27,8 +27,17 @@ Share your accomplishments with the group. Were they realistic?
 ---
 ### <a name="need-ideas"></a> Inspiration.
 
+#### CONTRIBUTE TO OPEN SOURCE
+* [Intro to Git Workshop](https://github.com/reshamas/git-intro-workshop) **Level:** Beginner; **Author:** Reshama Shaikh (NYC PyLadies Organizer)
+
 #### PYTHON BASICS
+* [JupyterLab is ready for users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) **Level:** Beginner
 
 #### WEB DEVELOPMENT
+* [Creating and Hosting a Personal Site on Github](http://jmcglone.com/guides/github-pages/) **Level:** Beginner 
+* [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) **Level:** Beginner to Advanced 
 
 #### DATA SCIENCE
+* [TensorFlow and deep learning without a PhD](https://youtu.be/u4alGiomYP4) **Level:** Intermediate
+
+#### OTHER
