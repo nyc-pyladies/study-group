@@ -8,10 +8,14 @@ Not sure what to work on? Look to this member-curated dynamic list of resources 
 
 #### PYTHON BASICS
 * [JupyterLab is ready for users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) **Level:** Beginner
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) **Level:** Beginner; **Description**: Covers python
+syntax and programming fundamentals, one exercise at a time.
 * [Intro to web scraping with Python](https://github.com/antoniablair/pyladies_scraping_workshop) **Level:** Beginner; **Author:** Antonia Blair (NYC PyLadies Organizer)
 
 #### WEB DEVELOPMENT
-* [Creating and Hosting a Personal Site on Github](http://jmcglone.com/guides/github-pages/) **Level:** Beginner 
+* [Creating and Hosting a Personal Site on Github](http://jmcglone.com/guides/github-pages/) **Level:** Beginner
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) **Level:** Beginner; **Description**: A very beginner-friendly introduction to building a blog with Django.
+* [Official Django Tutorial](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)  **Level:** Beginner
 * [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) **Level:** Beginner to Advanced 
 
 #### DATA SCIENCE
