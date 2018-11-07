@@ -4,7 +4,7 @@ Sign up for the **November 12th** event on Meetup [HERE](https://www.meetup.com/
 
 ### Description.
 
-On the second Monday of every month [Galvanize New York](https://www.galvanize.com/new-york/campus) will host an NYC PyLadies study group; a regular gathering for PyLadies of all levels to work on solo projects or in collaboration with one another. It will be a welcoming space where any Python related question is fair game, beginner or advanced, or in-between.
+[Equinox](http://tech.equinox.com/engineering/) will be hosting the NYC PyLadies November study group; moving forward, this will be a regular gathering for PyLadies of all levels to work on solo projects or in collaboration with one another. It will be a welcoming space where any Python related question is fair game, beginner or advanced, or in-between.
 
 Our goal is to foster a community where attendees can share coding tips, cool python finds, or short tutorials, set realistic goals, and encourage one another. We can’t wait to build a stronger PyLadies community in New York City!
 
