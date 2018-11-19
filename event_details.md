@@ -1,6 +1,6 @@
 # NYC PyLadies Study Group
 
-Sign up for the **November 12th** event on Meetup [HERE](https://www.meetup.com/NYC-PyLadies/events/256036522/) 
+Sign up for the **November 19th** event on Meetup [HERE](https://www.meetup.com/NYC-PyLadies/events/256036522/) 
 
 ### Description.
 
