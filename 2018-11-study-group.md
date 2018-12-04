@@ -26,9 +26,8 @@ We hope to encourage attendees to share something that interests them: a Python 
 > - **Contributing to open source documentation is an important and often overlooked task.** We all use softwarre documentation and well written documentation can make all the difference when using an open source library.
 >  
 > 2. **Customize your command prompt**, led by Antonia Blair <br> 
-> Antonia shared a series of articles and resources she found for personalizing your terminal on a Mac with colors, fonts, and emojis:hatched_chick:! She shared a [blog post](https://medium.com/@joshuaxavier/how-to-customise-your-command-prompt-to-include-an-emoji-647e1f3e4027) on how to customize your command line prompt with an emoji and a [website](https://misc.flogisoft.com/bash/tip_colors_and_formatting) with the list of colors you can use to customize. <br>
->
->In her own `bash_profile (~/.bash_profile)` she included a unicorn emoji, pink heart, and regular dollar sign with the following code.
+> Antonia shared a series of articles and resources she found for personalizing your terminal on a Mac with colors, fonts, and emojis:hatched_chick:! She shared a [blog post](https://medium.com/@joshuaxavier/how-to-customise-your-command-prompt-to-include-an-emoji-647e1f3e4027) on how to customize your command line prompt with an emoji and a [website](https://misc.flogisoft.com/bash/tip_colors_and_formatting) with the list of colors you can use to customize. <br><br>
+>In her own `bash_profile (~/.bash_profile)` she included a unicorn emoji, pink heart, and regular dollar sign with the following code. <br>
 > ```bash
 > export PS1='🦄 \e[95m❤\e[0m $'
 > ```
