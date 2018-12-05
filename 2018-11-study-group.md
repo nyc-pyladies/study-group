@@ -34,13 +34,15 @@ We hope to encourage attendees to share something that interests them: a Python 
 
 The SHOW AND TELL ran overtime, which ultimately cut into the hacking/coding portion of the event. For the next event I will be sure to keep better track of the timing!
 
-#### NETWORKING TIME AND INTROS 
+#### INTROS AND NETWORKING TIME 
 
-[Felice](https://www.linkedin.com/in/feliceho/) and [Sanchita](https://www.linkedin.com/in/sanchitamajumdar/) shared some of the cool engineering and data science projects from the Equinox tech team and emphasized their teams' focus on creating a member experiences that is as seamless and pleasant as possible. We learned about the work culture at Equinox, including the (obvious) group fitness classes, and some of the amazing contributions that both Felice and Sanchita have made in their positions as engineers at Equinox.
+[Felice](https://www.linkedin.com/in/feliceho/) and [Sanchita](https://www.linkedin.com/in/sanchitamajumdar/) shared some of the interesting engineering and data science projects from the Equinox tech team and emphasized their teams' focus on creating a member experience that is as seamless and pleasant as possible. We learned about the work culture at Equinox, including the group fitness classes (:muscle: are you surprised?), and some of the amazing contributions that both Felice and Sanchita have made in their positions as engineers at Equinox.
 
-To learn about job opportunities at Equinox, follow [THIS LINK](http://tech.equinox.com/careers/digital/) or you can reach out to the technical recruiter [Hannah Schreck](hannah.schreck@equinox.com).
+In addition to the functional space, the event sponsor Equinox was kind enough to provide pizza and soft beverages for the event, and Felice brought a homemade pumpkin pie.
 
-Then we went around the room to introduce ourselves. Attendees shared a little bit about their experiences with Python and what they planned to work on for the evening. There were some interesting trends amongst attendees:
+>To learn about job opportunities at Equinox, follow [THIS LINK](http://tech.equinox.com/careers/digital/) or you can reach out to the technical recruiter [Hannah Schreck](hannah.schreck@equinox.com).
+
+We went around the room to introduce ourselves. Attendees shared a little bit about their experiences with Python and what they planned to work on for the evening. There were some interesting trends amongst attendees:
 - Many people had never coded in Python and hoped to learn from some starter materials
 - There were a few journalists in the room
 - A significant number of attendees were interested in chatbots
