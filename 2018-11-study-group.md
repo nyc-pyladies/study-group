@@ -42,15 +42,17 @@ In addition to the functional space, the event sponsor Equinox was kind enough t
 
 >To learn about job opportunities at Equinox, follow [THIS LINK](http://tech.equinox.com/careers/digital/) or you can reach out to the technical recruiter [Hannah Schreck](hannah.schreck@equinox.com).
 
-We went around the room to introduce ourselves. Attendees shared a little bit about their experiences with Python and what they planned to work on for the evening. There were some interesting trends amongst attendees:
+We went around the room to give attendees the opportunity to introduce themselves, share a little about their experiences with Python, and finally what they hoped to accomplish for the evening. There were some interesting trends amongst attendees:
 - Many people had never coded in Python and hoped to learn from some starter materials
 - There were a few journalists in the room
 - A significant number of attendees were interested in chatbots
-- Some wanted to learn or improve their proficiency in a specific visualization
-- Someone brought a regular expressions to practice 
+- Some wanted to learn or improve their proficiency in a specific visualization libraries
+- Someone brought a regular expressions textbook to practice 
 
 #### HACK/CODING
-Based on our goals set for the evening, people separated into pairs and groups with similar interests or worked on solo projects. We also included a list with some inspiration for things to work on if attendees didn't have any ideas. The idea for the list is to have a document that members are adding to with their favorite resources. We received feedback that there were too many buzzwords within the list and that clarifying descriptions should be included.  
+Based on our goals set for the evening, people separated into pairs and groups with similar interests or worked on solo projects. We also included a list with some [inspiration for things to work on](https://github.com/mferrari3/nyc-pyladies-study-group/blob/master/inspiration.md) if attendees hadn't come with any prior tasks or ideas. The purpose for the list is to have an dynamic repository that members can use to share their favorite resources. 
+
+A piece of feedback we received was that the list contains too many buzzwords and does not include clarifying desriptions.
 
 #### WRAP UP
-I lost track of time and forgot to do the wrap up but I would like to incorporate this into the next event. I think it is important for community members to share their accomplishments with the group and take note of whether their own expectations were realistic. 
+We lost track of time and forgot to do the ten minute wrap up at the end of the event. We would like to try to incorporate this into the next study group because it could be helpful for community members to share their accomplishments with the group and take note of whether their own expectations were realistic. 
