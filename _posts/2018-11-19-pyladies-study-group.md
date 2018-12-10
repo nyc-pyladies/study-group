@@ -1,6 +1,6 @@
 On November 19th 2018, I co-hosted my first NYC PyLadies event alongside Antonia Blair, which was also the first of a monthly Ladies Study Group series. The event was hosted by Equinox and was a great success with 20 attendees, many attending their first PyLadies event ever! 
 
-![Study Group](/photos/20181119_studygroup.jpg)
+![Study Group](/nyc-pyladies-study-group/photos/20181119_studygroup.jpg)
 
 > "I love that overall, Pyladies provides a safe and welcoming environment for women of such diverse backgrounds!"
 
