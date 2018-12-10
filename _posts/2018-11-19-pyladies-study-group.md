@@ -4,7 +4,6 @@ On November 19th 2018, I co-hosted my first NYC PyLadies event alongside Antonia
 
 > "I love that overall, Pyladies provides a safe and welcoming environment for women of such diverse backgrounds!"
 
-
 ### What is the purpose of the study group?
 It is a regular gathering for PyLadies of all levels to work on solo projects or in collaboration with one another. It is a welcoming space where any Python related question is fair game, beginner or advanced, or in-between. The overarching goal is to foster a community where attendees can share coding tips, cool python finds, or short tutorials, set realistic goals, and encourage one another.
 
@@ -20,7 +19,7 @@ We hope to encourage attendees to share something that interests them: a Python 
 
 1. **Open source discussion**, led by me, Melissa Ferrari:
 
-    I shared my first accepted pull request to an open source for Project Jupyter from the Open Data Science Inclusion Sprint, an full day event hosted by NumFOCUS DISC Program and Two Sigma ([EVENT LINK](https://blog.jupyter.org/disc-sprint-nyc-2018-548780d0f40)). <br> 
+    I shared my first accepted pull request to an open source for Project Jupyter from the Open Data Science Inclusion Sprint, an full day [event](https://blog.jupyter.org/disc-sprint-nyc-2018-548780d0f40) hosted by NumFOCUS DISC Program and Two Sigma. <br> 
     
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">EVENT NEWS: Still some spots left in the NYC DISC Sprint for making your first-time <a href="https://twitter.com/hashtag/OpenSource?src=hash&amp;ref_src=twsrc%5Etfw">#OpenSource</a> contribution on October 26! Join <a href="https://twitter.com/micronova?ref_src=twsrc%5Etfw">@micronova</a> and <a href="https://twitter.com/steve_silvester?ref_src=twsrc%5Etfw">@steve_silvester</a> for a day of fun and learning with <a href="https://twitter.com/hashtag/JupyterLab?src=hash&amp;ref_src=twsrc%5Etfw">#JupyterLab</a>! <a href="https://twitter.com/hashtag/discsprint?src=hash&amp;ref_src=twsrc%5Etfw">#discsprint</a> <a href="https://t.co/cT0k8kmABY">https://t.co/cT0k8kmABY</a></p>&mdash; Project Jupyter (@ProjectJupyter) <a href="https://twitter.com/ProjectJupyter/status/1054439711362637826?ref_src=twsrc%5Etfw">October 22, 2018</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     
