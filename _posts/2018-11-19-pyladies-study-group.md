@@ -33,7 +33,7 @@ We hope to encourage attendees to share something that interests them: a Python 
     I spent the morning of the event familiarizing myself with the current [Issues](https://github.com/jupyterlab/jupyterlab/issues) in the JupyterLab project and deciding which issues would be realistic to tackle in one day, particularly those labeled [good first issue](https://github.com/jupyterlab/jupyterlab/labels/good%20first%20issue){: .btn .btn--success .btn--small}. The [issue](https://github.com/jupyterlab/jupyterlab/issues/5271) I chose, required some understanding of the [Typescript](https://www.typescriptlang.org) language syntax. 
 
     By the end of the day I had submitted my first [pull request](https://github.com/jupyterlab/jupyterlab/pull/5542/files). I only changed *two lines* in the codebase but contributing to Jupyter, a tool I had been using for 5+ years, felt satisfying. 
-    <figure style="width: 80%" class="align-center" >
+    <figure style="width: 100%" class="align-center" >
         <img src="{{ site.url }}{{ site.baseurl }}/nyc-pyladies-study-group/photos/jupyterlab_pr.png" alt="JupyterLab-PR">
     </figure> 
     Making my first contribution to a large open source project was a learning experience; it took a long time and was more difficult than I had expected. I was appreciative to attend this particular event because experienced Project Jupyter contributors were available for guidance throughout the day. Now that I have some experience, I hope to tackle more challenging issues within the project. 
@@ -52,7 +52,7 @@ We hope to encourage attendees to share something that interests them: a Python 
     <figure style="width: 80%" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/nyc-pyladies-study-group/photos/command_prompt.png" alt="custom-prompt" border="5" >
     </figure> 
-    
+
 The Show and Tell ran longer than planned, which ultimately cut into hacking and coding time. For the next event I will be sure to keep better track of the timing!
 
 #### HOST INTRODUCTIONS 
@@ -73,9 +73,9 @@ We went around the room to give attendees the opportunity to introduce themselve
 - Someone brought a regular expressions textbook to practice 
 
 #### HACK/CODING
-Based on our goals set for the evening, people separated into pairs and groups with similar interests or worked on solo projects. We also included a list with some [inspiration for things to work on](https://github.com/mferrari3/nyc-pyladies-study-group/blob/master/inspiration.md) if attendees hadn't come with any prior tasks or ideas. The purpose for the list is to have an dynamic repository that members can use to share their favorite resources. 
+Based on individuals' vocalized goals for the evening, attendees separated into pairs/groups with similar interests or worked on personal projects. 
 
-A piece of feedback we received was that the list contains too many buzzwords and does not include clarifying desriptions.
+For those that weren't sure what to work on or were just getting started with Python, we shared a list containing [ideas and inspiration](https://github.com/mferrari3/nyc-pyladies-study-group/blob/master/inspiration.md). The list isn't very long at the moment, but we hope that it will become a dynamic repository for PyLadies to share their favorite resources. There has also been some concern that the list contains too many buzzwords and does not include clarifying desriptions which will be addressed as it is updated.
 
 #### WRAP UP
 We lost track of time and forgot to do the ten minute wrap up at the end of the event. We would like to try to incorporate this into the next study group because it could be helpful for community members to share their accomplishments with the group and take note of whether their own expectations were realistic. 
