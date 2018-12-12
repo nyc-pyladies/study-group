@@ -12,13 +12,19 @@ On November 19th 2018, I co-hosted my first NYC PyLadies event alongside [Antoni
 > "I love that overall, Pyladies provides a safe and welcoming environment for women of such diverse backgrounds!"
 <cite>Felice Ho</cite> 
 
+--- 
+
 ### What is the purpose of the study group?
-It is a regular gathering for PyLadies of all levels to work on solo projects or in collaboration with one another. It is a welcoming space where any Python related question is fair game, beginner or advanced, or in-between. The overarching goal is to foster a community where attendees can share coding tips, cool python finds, or short tutorials, set realistic goals, and encourage each other.
+It is a regular gathering for PyLadies of all levels to work on solo projects or in collaboration with one another. It is a welcoming space where any Python related question is fair game, beginner or advanced, or in-between. The overarching goal is to foster a community where attendees can share coding resources, set realistic goals, and encourage each other.
+
+--- 
 
 ### How does this series differ from past NYC PyLadies study groups? 
-PyLadies has hosted study group events in the past and they have been a great success because the community is made up of individuals who are eager to collaborate and support one another. Attendee feedback from the past events has suggested that the lack of structure essential for any study group event have made it difficult for members who are just starting out and/or those looking for new collaboration opportunities. Futhermore, if study groups aren't offered regularly, it is difficult to establish continuity and foster growth.
+PyLadies has hosted study group events in the past and they have been a great success because the community is made up of individuals who are eager to collaborate and support one another. Attendee feedback from the past events has suggested that the lack of structure essential for any study group event made it difficult for members who are just starting out and/or those looking for new collaboration opportunities. Futhermore, if study groups aren't offered regularly, it is difficult to establish continuity and foster growth.
 
 With this study group series we hope to provide the right balance between structured networking and free-form coding time. We take feedback seriously and are open to adapting the structure of the evening to the needs and wants of the community.
+
+---
 
 ### A summary of the evening. 
 
@@ -39,8 +45,8 @@ We hope to encourage attendees to share something that interests them: a Python 
     Making my first contribution to a large open source project was a learning experience; it took a long time and was more difficult than I had expected. I was appreciative to attend this particular event because experienced Project Jupyter contributors were available for guidance throughout the day. Now that I have some experience, I hope to tackle more challenging issues within the project. 
 
     We had a fruitful discussion about contributing to open source at the study group and here were some takeaways from that conversation: 
-    * Some PyLadies use contributing to open source as a tool for understanding practical code designs within larger projects
-    * **Contributing to open source documentation is an important and often overlooked task.** We all use softwarre documentation and well written documentation can make all the difference when using an open source library.
+    * Some PyLadies contribute to open source to understand practical code design within larger projects. 
+    * **Contributing to open source documentation is an important and often overlooked task.** We all use softwarkee documentation and well written documentation can make all the difference when using an open source library.
   
 * **Customize your command prompt**, led by Antonia Blair: <br>
     Antonia shared a series of articles and resources she found for personalizing your terminal on a Mac with colors, fonts, and emojis:hatched_chick:! She shared a [blog post](https://medium.com/@joshuaxavier/how-to-customise-your-command-prompt-to-include-an-emoji-647e1f3e4027) on how to customize your command line prompt with an emoji and a [website](https://misc.flogisoft.com/bash/tip_colors_and_formatting) with the list of colors you can use to customize. <br>
@@ -65,7 +71,7 @@ In addition to the functional space, the event sponsor Equinox was kind enough t
 >To learn about job opportunities at Equinox, follow [THIS LINK](http://tech.equinox.com/careers/digital/) or you can reach out to the technical recruiter [Hannah Schreck](hannah.schreck@equinox.com).
 
 #### ATTENDEE INTRODUCTIONS
-We went around the room to give attendees the opportunity to introduce themselves, share a little about their experiences with Python, and finally what they hoped to accomplish for the evening. There were some interesting trends amongst attendees:
+We went around the room to give attendees the opportunity to introduce themselves, share a little about their experience with Python, and finally what they hoped to accomplish for the evening. There were some interesting trends amongst attendees:
 - Many people had never coded in Python and hoped to learn from some starter materials
 - There were a few journalists in the room
 - A significant number of attendees were interested in chatbots
@@ -79,3 +85,9 @@ For those that weren't sure what to work on or were just getting started with Py
 
 #### WRAP UP
 We lost track of time and forgot to do the ten minute wrap up at the end of the event. We would like to try to incorporate this into the next study group because it could be helpful for community members to share their accomplishments with the group and take note of whether their own expectations were realistic. 
+
+---
+
+In summary, we had a fun-spirited and productive first study group. If you haven't already done so, sign up for the [December Study Group](https://www.meetup.com/NYC-PyLadies/events/256583314/)! We would love to have you join our community and look forward to your suggestions.
+
+You can learn about upcoming NYC PyLadies events by joining the [Meetup group](https://www.meetup.com/NYC-PyLadies/) or following us on [Twitter](https://twitter.com/NYCPyLadies).  
