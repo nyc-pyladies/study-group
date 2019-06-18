@@ -3,10 +3,10 @@
 ## Our Goal
 Get more women into Python community.
 
-## To Partiicpate
+## To Participate
 Sign up for the next study group event on Meetup [HERE](https://www.meetup.com/NYC-PyLadies/events/) 
 
-### Description.
+### Description
 
 The NYC PyLadies study group series is a regular gathering for PyLadies of all levels to work on solo projects or in collaboration with one another. It is a welcoming space where any Python related question is fair game, beginner or advanced, or in-between.
 
