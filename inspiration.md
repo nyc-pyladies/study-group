@@ -5,6 +5,7 @@ Not sure what to work on? Look to this member-curated dynamic list of resources 
 
 #### CONTRIBUTE TO OPEN SOURCE
 * [Intro to Git Workshop](https://github.com/reshamas/git-intro-workshop) **Level:** Beginner; **Author:** Reshama Shaikh (NYC PyLadies Organizer)
+* [How to choose and contribute to your first open source project](https://github.com/collections/choosing-projects) **Level:** Beginner; **Author:** Github
 
 #### PYTHON BASICS
 * [JupyterLab is ready for users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) **Level:** Beginner
@@ -12,6 +13,7 @@ Not sure what to work on? Look to this member-curated dynamic list of resources 
 syntax and programming fundamentals, one exercise at a time.
 * [Intro to web scraping with Python](https://github.com/antoniablair/pyladies_scraping_workshop) **Level:** Beginner; **Author:** Antonia Blair (NYC PyLadies Organizer)
 * [Google's Python Class](https://developers.google.com/edu/python/) **Level:** Beginner
+* [Exercism](https://exercism.io) **Level:** Beginner to Intermediate; **Description:** open-source, free coding platform that offers practice and mentorship on 50 different coding languages
 
 #### WEB DEVELOPMENT
 * [Creating and Hosting a Personal Site on Github](http://jmcglone.com/guides/github-pages/) **Level:** Beginner
@@ -23,6 +25,7 @@ syntax and programming fundamentals, one exercise at a time.
 * [TensorFlow and deep learning without a PhD](https://youtu.be/u4alGiomYP4) **Level:** Intermediate
 
 #### OTHER
+* [Talk Python Podcast](https://talkpython.fm)  
 
 ## Add to this list (and take your first step to an open source contribution)
 The PyLadies website states: 
