@@ -22,6 +22,14 @@ syntax and programming fundamentals, one exercise at a time.
 #### DATA SCIENCE
 * [TensorFlow and deep learning without a PhD](https://youtu.be/u4alGiomYP4) **Level:** Intermediate
 
+#### Games
+* [Invent Your Own Computer Games with Python](https://inventwithpython.com/invent4thed/) **Level:** Beginner
+
+#### Gamification Sites to keep the learning going
+* [Code Signal](https://codesignal.com/) **Level:** Beginner and Intermediate
+* [Code Wars](https://www.codewars.com/) **Level:** Beginner and Intermediate
+
+
 #### OTHER
 
 ## Add to this list (and take your first step to an open source contribution)
